@@ -222,9 +222,9 @@ If you use this code in your research, please cite:
 
 ## 📧 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Mailto - [himanshumittal.hbti@gmail.com]
 
-Project Link: [https://github.com/yourusername/violence-detection-difem](https://github.com/yourusername/violence-detection-difem)
+
 
 ## 📄 License
 
