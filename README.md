@@ -206,11 +206,11 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @misc{violence-detection-difem,
-  author = {Your Name},
+  author = {Himanshu Mittal},
   title = {Violence Detection using OpenPose and DIFEM Features},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/violence-detection-difem}
+  url = {https://github.com/himanshuhbti/violence-detection-difem}
 }
 ```
 
